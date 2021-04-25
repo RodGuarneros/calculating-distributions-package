@@ -1,4 +1,4 @@
-# Gaussian Distribution Function
+# Calculating-distributions package
 
 ### By Rodrigo Guarneros
 
@@ -6,14 +6,17 @@ This package is created based on an Oriented Object Programming approach.
 
 This package is able to calculate gaussian and binomial distributions for a simple list of observations.
 
+https://github.com/RodGuarneros/calculating-distributions-package/blob/master/resources/packageGuarneros.jpg
+
+
 # Files
 
 You need a simple list in format .txt
 
 # Installation
 
-pip install calculating-distributions
-from calculating_distributions import Gaussian, Binomial
+- pip install calculating-distributions
+- from calculating_distributions import Gaussian, Binomial
 
 
 # Documentation
