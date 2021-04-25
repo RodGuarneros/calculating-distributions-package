@@ -6,7 +6,7 @@ This package is created based on an Oriented Object Programming approach.
 
 This package is able to calculate gaussian and binomial distributions for a simple list of observations.
 
-https://github.com/RodGuarneros/calculating-distributions-package/blob/master/resources/packageGuarneros.jpg
+![package.jpg](https://github.com/RodGuarneros/calculating-distributions-package/blob/master/resources/packageGuarneros.jpg)
 
 
 # Files
